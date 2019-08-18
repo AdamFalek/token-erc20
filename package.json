@@ -1,0 +1,17 @@
+{
+	"name": "quantum-coin-sale",
+	"version": "1.0.0",
+	"description": "Quantum Coin Token Presale ICO",
+	"main": "truffle.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"dev": "lite-server"
+	},
+	"author": "Adam",
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "^2.3.0"
+	}
+}
